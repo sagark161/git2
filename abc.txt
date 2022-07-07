@@ -1,4 +1,4 @@
-<common Line>
+<common Line - C6>
 C0
 C1
 C2
