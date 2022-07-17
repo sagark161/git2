@@ -1,2 +1,2 @@
 Commit2-some changes
-conflict-abc
+conflict-123
